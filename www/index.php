@@ -41,7 +41,7 @@
             </div>
         </div>
     </div>
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=rampart-10k-10k&client_id=4462e1efcd15d7888e08a96e174b7603" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=rampart-10k-10k&client_id=69455efbdf4bee71ad439735bd2b0ce6" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
     <div class="bottomGreenBorder"></div>
