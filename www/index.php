@@ -1,10 +1,10 @@
-<?php require_once __DIR__ . '/../../rampart-10k-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-front-end.php'; ?>
+<?php require_once __DIR__ . '/../../rampart-10k-10k-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-front-end.php'; ?>
 <!DOCTYPE html>
 <html lang="en" class="setTo100">
 
 <head>
     <title>Sunday Funday presented by Rampart Casino</title>
-    <?php require_once __DIR__ . '/../../rampart-10k-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
+    <?php require_once __DIR__ . '/../../rampart-10k-10k-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="description" content="Sundays are Fundays throughout April at Rampart Casino. Play fun, free games online to earn drawing entries and more chances to win a share of $40,000." />
@@ -41,7 +41,7 @@
             </div>
         </div>
     </div>
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=rampart-10k&client_id=f2be44e251e5a0fb1b785883e3642c2c" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=rampart-10k-10k&client_id=4462e1efcd15d7888e08a96e174b7603" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
     <div class="bottomGreenBorder"></div>
