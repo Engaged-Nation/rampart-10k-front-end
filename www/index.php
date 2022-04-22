@@ -7,7 +7,7 @@
     <?php require_once __DIR__ . '/../../rampart-10k-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="description" content="" />
+    <meta name="description" content="$10K is up for grabs every Tuesday in May at Rampart Casino. Play fun, free games online to earn drawing entries and chances to win a share of $50,000." />
     <meta name="google-site-verification" content="WmmyIwOo9iywRf-N8Kwq3irT04cMkp5Vrgb9w1URGRY" />
     <base href="//<?php echo $enConfigClient['environment']['site_front_end']; ?>" />
     <link rel="canonical" href="//<?php echo $enConfigClient['environment']['site_front_end']; ?>">
